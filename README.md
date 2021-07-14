@@ -17,4 +17,4 @@ FEATURES =>
             b. Created Function to vary the size of that array
             b. Created Function to the speed of the Visualization of algorithms as they run
    
-TECH USERD => JAVASCRIPT , DOM , HTML , CSS
+TECH USED => JAVASCRIPT , DOM , HTML , CSS
