@@ -1,5 +1,7 @@
 # SortingAlgoVisualizer
 
+LIVE DEMO LINK => https://rishabhgoyal9.github.io/Sorting-Algo-Visualizer/
+
 It's a web app built to visualise a bunch of different sorting algorithms like :
 
           a. Bubble Sort
